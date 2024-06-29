@@ -68,7 +68,8 @@ article img:hover {
     font-size: 20px;
     height: auto;
     padding: 5px;
-    /*agregadobackground-color: #FFF;*/
+    /*agregado
+    background-color: #FFF;*/
     
     
     background-color: #d5f7fe;
@@ -100,7 +101,7 @@ fieldset {
 
 label {
   font-size: 1.125rem;
-  text-shadow: 1px 1px 1px rgba(0,0,0,10)
+  text-shadow: 1px 1px 1px rgba(0,0,0,10);
 }
 
 span {
@@ -159,7 +160,7 @@ h4 {
     /*agregado*/
     background-color: #d5f7fe;
     font-size: 1rem;
-    color:#000
+    color:#000;
        
 }
 
